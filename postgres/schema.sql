@@ -1,0 +1,1 @@
+-- TODO: create tables: users, status, tasks; PK, UNIQUE(email), UNIQUE(status.name), FK, ON DELETE CASCADE
